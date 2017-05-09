@@ -1,2 +1,6 @@
 hahahah
+<<<<<<< HEAD
 Master di er ci gai 
+=======
+di er hang
+>>>>>>> ha2
